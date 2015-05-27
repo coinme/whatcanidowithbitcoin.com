@@ -17,8 +17,6 @@
     check_mime_type: true
   };
 
-
-
   root.Retina = Retina;
 
   function Retina() {}
